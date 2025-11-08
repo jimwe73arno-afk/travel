@@ -1,19 +1,7 @@
 {
-  "name": "travel-ai-bestie-gemini",
+  "name": "travel-ai-gemini",
   "version": "1.0.0",
-  "description": "旅遊AI閨蜜 - 使用 Google Gemini API",
-  "main": "index.html",
-  "scripts": {
-    "dev": "netlify dev",
-    "build": "echo 'No build needed'"
-  },
-  "keywords": ["travel", "ai", "chatbot", "gemini", "netlify"],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.7"
-  },
-  "devDependencies": {
-    "netlify-cli": "^17.0.0"
+    "node-fetch": "^2.6.1"
   }
 }
